@@ -1,0 +1,374 @@
+{
+  "reviewDate": "2026-11-08",
+  "lightLayoutChecks": [
+    {
+      "h1Count": 1,
+      "heading": "Big ideas. Clear overview.",
+      "scrollWidth": 360,
+      "width": 360
+    },
+    {
+      "h1Count": 1,
+      "heading": "Hackathons",
+      "scrollWidth": 360,
+      "width": 360
+    },
+    {
+      "h1Count": 1,
+      "heading": "Build for tomorrow",
+      "scrollWidth": 360,
+      "width": 360
+    },
+    {
+      "h1Count": 1,
+      "heading": "Teams",
+      "scrollWidth": 360,
+      "width": 360
+    },
+    {
+      "h1Count": 1,
+      "heading": "Submissions",
+      "scrollWidth": 360,
+      "width": 360
+    },
+    {
+      "h1Count": 1,
+      "heading": "Evaluation",
+      "scrollWidth": 360,
+      "width": 360
+    },
+    {
+      "h1Count": 1,
+      "heading": "Leaderboard",
+      "scrollWidth": 360,
+      "width": 360
+    },
+    {
+      "h1Count": 1,
+      "heading": "Big ideas. Clear overview.",
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "h1Count": 1,
+      "heading": "Hackathons",
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "h1Count": 1,
+      "heading": "Build for tomorrow",
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "h1Count": 1,
+      "heading": "Teams",
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "h1Count": 1,
+      "heading": "Submissions",
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "h1Count": 1,
+      "heading": "Evaluation",
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "h1Count": 1,
+      "heading": "Leaderboard",
+      "scrollWidth": 753,
+      "width": 753
+    },
+    {
+      "h1Count": 1,
+      "heading": "Big ideas. Clear overview.",
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "h1Count": 1,
+      "heading": "Hackathons",
+      "scrollWidth": 1024,
+      "width": 1024
+    },
+    {
+      "h1Count": 1,
+      "heading": "Build for tomorrow",
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "h1Count": 1,
+      "heading": "Teams",
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "h1Count": 1,
+      "heading": "Submissions",
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "h1Count": 1,
+      "heading": "Evaluation",
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "h1Count": 1,
+      "heading": "Leaderboard",
+      "scrollWidth": 1009,
+      "width": 1009
+    },
+    {
+      "h1Count": 1,
+      "heading": "Big ideas. Clear overview.",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "h1Count": 1,
+      "heading": "Hackathons",
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "h1Count": 1,
+      "heading": "Build for tomorrow",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "h1Count": 1,
+      "heading": "Teams",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "h1Count": 1,
+      "heading": "Submissions",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "h1Count": 1,
+      "heading": "Evaluation",
+      "scrollWidth": 1425,
+      "width": 1425
+    },
+    {
+      "h1Count": 1,
+      "heading": "Leaderboard",
+      "scrollWidth": 1425,
+      "width": 1425
+    }
+  ],
+  "darkLayoutChecks": [
+    {
+      "heading": "Big ideas. Clear overview.",
+      "scrollWidth": 360,
+      "theme": "dark",
+      "width": 360
+    },
+    {
+      "heading": "Hackathons",
+      "scrollWidth": 360,
+      "theme": "dark",
+      "width": 360
+    },
+    {
+      "heading": "Build for tomorrow",
+      "scrollWidth": 360,
+      "theme": "dark",
+      "width": 360
+    },
+    {
+      "heading": "Teams",
+      "scrollWidth": 360,
+      "theme": "dark",
+      "width": 360
+    },
+    {
+      "heading": "Submissions",
+      "scrollWidth": 360,
+      "theme": "dark",
+      "width": 360
+    },
+    {
+      "heading": "Evaluation",
+      "scrollWidth": 360,
+      "theme": "dark",
+      "width": 360
+    },
+    {
+      "heading": "Leaderboard",
+      "scrollWidth": 360,
+      "theme": "dark",
+      "width": 360
+    },
+    {
+      "heading": "Big ideas. Clear overview.",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "heading": "Hackathons",
+      "scrollWidth": 1440,
+      "theme": "dark",
+      "width": 1440
+    },
+    {
+      "heading": "Build for tomorrow",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "heading": "Teams",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "heading": "Submissions",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "heading": "Evaluation",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    },
+    {
+      "heading": "Leaderboard",
+      "scrollWidth": 1425,
+      "theme": "dark",
+      "width": 1425
+    }
+  ],
+  "lightContrast": [
+    {
+      "pair": "--foreground/--surface",
+      "ratio": 15.52
+    },
+    {
+      "pair": "--muted/--surface",
+      "ratio": 5.63
+    },
+    {
+      "pair": "--primary/--primary-soft",
+      "ratio": 5.93
+    },
+    {
+      "pair": "--on-primary/--primary",
+      "ratio": 6.65
+    },
+    {
+      "pair": "--teal/--teal-soft",
+      "ratio": 5.18
+    },
+    {
+      "pair": "--violet/--violet-soft",
+      "ratio": 5.68
+    },
+    {
+      "pair": "--amber/--amber-soft",
+      "ratio": 4.88
+    },
+    {
+      "pair": "--danger/--danger-soft",
+      "ratio": 5.46
+    },
+    {
+      "pair": "--navy-muted/--navy",
+      "ratio": 9.14
+    }
+  ],
+  "darkContrast": [
+    {
+      "pair": "--foreground/--surface",
+      "ratio": 14.37
+    },
+    {
+      "pair": "--muted/--surface",
+      "ratio": 8.05
+    },
+    {
+      "pair": "--primary/--primary-soft",
+      "ratio": 5.37
+    },
+    {
+      "pair": "--on-primary/--primary",
+      "ratio": 7.32
+    },
+    {
+      "pair": "--teal/--teal-soft",
+      "ratio": 7.46
+    },
+    {
+      "pair": "--violet/--violet-soft",
+      "ratio": 6.94
+    },
+    {
+      "pair": "--amber/--amber-soft",
+      "ratio": 7.39
+    },
+    {
+      "pair": "--danger/--danger-soft",
+      "ratio": 6.74
+    },
+    {
+      "pair": "--navy-muted/--navy",
+      "ratio": 7.74
+    }
+  ],
+  "guiStrategyComparisons": [
+    {
+      "model": "STANDARD",
+      "scores": [
+        "Your standard score preview0/ 100",
+        "Final project score56.67/ 100"
+      ]
+    },
+    {
+      "model": "OLYMPIC",
+      "scores": [
+        "Your standard score preview0/ 100",
+        "Final project score70/ 100"
+      ]
+    },
+    {
+      "model": "WEIGHTED",
+      "scores": [
+        "Your weighted score preview0/ 100",
+        "Final project score60/ 100"
+      ]
+    }
+  ],
+  "reducedMotionTransition": "0s",
+  "guiJourneyFinalScore": 70,
+  "downloads": [
+    "hackathon-3-results.json",
+    "hackathon-3-results.pdf"
+  ],
+  "notes": "Browser viewport emulation and native dialog/GUI checks; not a formal accessibility certification.",
+  "finalNavigationChecks": [
+    "Hackathons",
+    "Teams",
+    "Submissions",
+    "Evaluation",
+    "Leaderboard",
+    "Big ideas. Clear overview."
+  ],
+  "finalConsoleErrors": []
+}
